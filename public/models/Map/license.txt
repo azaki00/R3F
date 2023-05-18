@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hexagon map
+* source:	https://sketchfab.com/3d-models/hexagon-map-e313258ad9a54e908c8a696760c51400
+* author:	trios3v (https://sketchfab.com/trios3v)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hexagon map" (https://sketchfab.com/3d-models/hexagon-map-e313258ad9a54e908c8a696760c51400) by trios3v (https://sketchfab.com/trios3v) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
